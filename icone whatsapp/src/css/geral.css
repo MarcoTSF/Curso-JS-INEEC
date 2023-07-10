@@ -1,0 +1,22 @@
+.zap {
+  position: fixed;
+  bottom: 15px;
+  left: 15px;
+  cursor: pointer;
+}
+
+.icone {
+  height: 60px;
+}
+
+#mensagem {
+  font-family: arial;
+  text-align: center;
+  background-color: #34af23;
+  padding: 20px;
+  color: white;
+  border-radius: 15px;
+  position: fixed;
+  bottom: 85px;
+  display: none;
+}

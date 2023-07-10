@@ -1,0 +1,29 @@
+.geral_cal {
+  background-color: black;
+  padding: 20px;
+  width: 25%;
+}
+
+#resultado {
+  color: white;
+  font-family: arial;
+  margin-bottom: 10px;
+}
+
+.input {
+  border: none;
+  color: black;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+#botao {
+  background: none;
+  color: orange;
+  font-family: arial;
+  font-weight: 600;
+  border: solid 1px orange;
+  cursor: pointer;
+  margin-bottom: 10px;
+  width: 100%;
+}
